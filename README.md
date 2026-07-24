@@ -14,8 +14,8 @@
 </br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dr-Alpaca&show_icons=true&theme=vue&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dr-Alpaca&layout=donut&theme=vue&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+  <img src="https://gh-readme-stats.vercel.app/api?username=Dr-Alpaca&show_icons=true&theme=vue&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=Dr-Alpaca&layout=donut&theme=vue&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
 </div>
 
 <!-- Snake animation (uncomment if you have the workflow configured) -->
