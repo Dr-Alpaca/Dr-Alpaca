@@ -25,7 +25,7 @@
       </td>
       <td>
         <ul>
-          <li>🧑‍💻 <b>Name:</b> Philipp</li>
+          <li>🧑‍💻 <b>Name:</b> Harvey</li>
           <li>🌍 <b>Location:</b> China</li>
           <li>💼 <b>Role:</b> Full-Stack Developer · Backend Focus</li>
           <li>📧 <b>Email:</b> <a href="mailto:scycx9@nottingham.edu.cn">scycx9@nottingham.edu.cn</a></li>
