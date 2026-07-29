@@ -7,6 +7,16 @@
   <i>Code save the King</i>
 </p>
 
+<p style="font-size: 128px; text-align: center;">
+  <i style="display: block;">God save our gracious King</i>
+  <i style="display: block;">Long live our noble King</i>
+  <i style="display: block;">God save the King</i>
+  <i style="display: block;">&nbsp;</i>
+  <i style="display: block;">Code save our gracious King</i>
+  <i style="display: block;">Long live our noble King</i>
+  <i style="display: block;">Code save the King</i>
+</p>
+
 
 <!-- 技能表格 -->
 ## 🛠 Tech Stack
