@@ -1,7 +1,7 @@
-<p align="center">
-  <i> Code save our gracious King</i>
-  <i> Long live our noble King</i>
-  <i> Code save the King</i>
+<p align="center" style="font-size: 26px;">
+  <i>Code save our gracious King</i><br>
+  <i>Long live our noble King</i><br>
+  <i>Code save the King</i>
 </p>
 
 
