@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 26px;">
+<p align="center" style="font-size: 84px;">
   <i>Code save our gracious King</i><br>
   <i>Long live our noble King</i><br>
   <i>Code save the King</i>
